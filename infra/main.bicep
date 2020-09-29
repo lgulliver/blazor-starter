@@ -28,3 +28,4 @@ resource staticApp 'Microsoft.Web/staticSites@2019-12-01-preview' = {
       }
   }
 }
+
